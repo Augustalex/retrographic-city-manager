@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022ba60960f1475085213aee8dd80cca, type: 3}
+  m_Name: TileSettings
+  m_EditorClassIdentifier: 
+  houseTile: {fileID: 6062435670593220115, guid: c4429a58a9c687a49afe907d356f475e,
+    type: 3}
+  treeTemplate: {fileID: 6062435670593220115, guid: b6e917079b2fd8f498842d1b43d40f43,
+    type: 3}
+  explosionTemplate: {fileID: 6062435670593220115, guid: 84a6b69c62327e54b8f9d7d21f2ce435,
+    type: 3}
+  tileTemplate: {fileID: 7299193261938930712, guid: 15922e9fb3b485c43b6e395f15088982,
+    type: 3}
+  grassStyle: {fileID: 2100000, guid: 983b92c1add2df343bbb5c958966f04e, type: 2}
+  waterStyle: {fileID: 2100000, guid: 6f2f6826879827e47bf6de49199db3fc, type: 2}
+  soilStyle: {fileID: 2100000, guid: 2b0d2e0ba8458a54a902f7699eef395d, type: 2}
+  tileScale: 0.1
+  tilesX: 10
+  tilesY: 10

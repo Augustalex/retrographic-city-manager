@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3076391dd54845a7af714957e27c7c8b, type: 3}
+  m_Name: CitySpawnSettings
+  m_EditorClassIdentifier: 
+  tileDivisions: 3
+  crossingTemplate: {fileID: 4396009610414924684, guid: 7c08b27762b21cf4896d18772dad125c,
+    type: 3}
+  verticalRoadTemplate: {fileID: 3118085481525073156, guid: 12c1839093bdf104a987fc92660bbbb8,
+    type: 3}
+  horizontalRoadTemplate: {fileID: 4059483900434397392, guid: bf60d5bab9d27ee4fbf69db2e97147ea,
+    type: 3}
+  parkTemplate: {fileID: 3356446055604459106, guid: a1206c220bceb234e8808348d47c218f,
+    type: 3}
+  houseTemplate: {fileID: 6115939587604168762, guid: 4cb5827cbb365734f8acf40b49d1be8a,
+    type: 3}

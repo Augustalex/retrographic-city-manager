@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7eb7295c-d325-4111-9556-628e34719932" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/HouseSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ItemClicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Diskette.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FloppyPlug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TileMenuBuildTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BoardWaterSpread.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InfoUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KaboomDisk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GamePlayerInputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FloppyHole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PickupableItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BoardClicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4A317319-33E0-419C-A5A9-95305014AD37/64/015a0102/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NatureDisk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CityDisk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GreenTileScenary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TileRoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TerraformDisk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TileMenuBuildHouse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ExplosionOnTile.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TileGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tiles/Settings/GreenTileSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tiles/TileGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/BoardClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/BoardRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/LookAtCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/TileMenu/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TileMenuItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/TileMenuBuildHouse.cs" />
+        <option value="$PROJECT_DIR$/Assets/TileMenuBuildTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloppyPlug.cs" />
+        <option value="$PROJECT_DIR$/Assets/ItemClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/InfoUi.cs" />
+        <option value="$PROJECT_DIR$/Assets/TileMenu/IInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloppyHole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Diskette.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GamePlayerInputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/CityDisk.cs" />
+        <option value="$PROJECT_DIR$/Assets/PickupableItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tiles/City/CitySpawnSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/HouseSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/GreenTileScenary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Board/TileGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Board/TileRepository.cs" />
+        <option value="$PROJECT_DIR$/Assets/TerraformDisk.cs" />
+        <option value="$PROJECT_DIR$/Assets/NatureDisk.cs" />
+        <option value="$PROJECT_DIR$/Assets/BoardForrestGrower.cs" />
+        <option value="$PROJECT_DIR$/Assets/TileRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tiles/TileSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/KaboomDisk.cs" />
+        <option value="$PROJECT_DIR$/Assets/BoardWaterSpread.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosionOnTile.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ClXQHoFsU5N1mndwpUI7FnvphM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eb7295c-d325-4111-9556-628e34719932" name="Default Changelist" comment="" />
+      <created>1659378130399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659378130399</updated>
+      <workItem from="1659378145242" duration="25492000" />
+      <workItem from="1659609193332" duration="20858000" />
+      <workItem from="1659907364066" duration="2532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="975" y="162" key="RiderGenerateDialog" timestamp="1659638560753">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="975" y="162" key="RiderGenerateDialog/0.0.2293.920@0.0.2293.920" timestamp="1659638560753" />
+    <state x="649" y="106" key="SettingsEditor" timestamp="1659651183535">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="649" y="106" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1659651183535" />
+    <state x="764" y="193" width="765" height="534" key="find.popup" timestamp="1659609885739">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="764" y="193" width="765" height="534" key="find.popup/0.0.2293.920@0.0.2293.920" timestamp="1659609885739" />
+    <state x="804" y="211" width="672" height="677" key="run.anything.popup" timestamp="1659640562737">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="804" y="211" width="672" height="677" key="run.anything.popup/0.0.2293.920@0.0.2293.920" timestamp="1659640562737" />
+    <state x="810" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1659907499437">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="810" y="195" width="672" height="678" key="search.everywhere.popup/0.0.2293.920@0.0.2293.920" timestamp="1659907499437" />
+    <state x="1215" y="297" width="1009" height="1032" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1659520391203" />
+  </component>
+</project>
